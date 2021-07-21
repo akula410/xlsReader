@@ -2,8 +2,8 @@ package record
 
 import (
 	"encoding/binary"
-	"github.com/shakinm/xlsReader/helpers"
-	"github.com/shakinm/xlsReader/xls/structure"
+	"github.com/akula410/xlsReader/helpers"
+	"github.com/akula410/xlsReader/xls/structure"
 )
 
 // MULRK: Multiple RK Cells
