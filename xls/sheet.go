@@ -3,9 +3,9 @@ package xls
 import (
 	"bytes"
 	"fmt"
-	"github.com/shakinm/xlsReader/helpers"
-	"github.com/shakinm/xlsReader/xls/record"
-	"github.com/shakinm/xlsReader/xls/structure"
+	"github.com/akula410/xlsReader/helpers"
+	"github.com/akula410/xlsReader/xls/record"
+	"github.com/akula410/xlsReader/xls/structure"
 )
 
 type rw struct {
