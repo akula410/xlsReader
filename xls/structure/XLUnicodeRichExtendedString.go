@@ -1,7 +1,7 @@
 package structure
 
 import (
-	"github.com/shakinm/xlsReader/helpers"
+	"github.com/akula410/xlsReader/helpers"
 	"unicode/utf16"
 )
 
