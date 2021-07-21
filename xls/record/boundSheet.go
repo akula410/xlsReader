@@ -2,7 +2,7 @@ package record
 
 import (
 	"bytes"
-	"github.com/shakinm/xlsReader/xls/structure"
+	"github.com/akula410/xlsReader/xls/structure"
 	"strings"
 )
 
